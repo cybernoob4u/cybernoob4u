@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" />
 </p>
 
-<h1 align="center">⚡ YOURNAME</h1>
+<h1 align="center">⚡ Cybernoob4u</h1>
 <h3 align="center">Application Security| Offensive Thinker | Penetration Test </h3>
 
 <p align="center">
@@ -70,15 +70,7 @@
 
 ---
 
-## 📊 $ stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=chartreuse-dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-</p>
 
 ---
 
@@ -93,8 +85,7 @@
 ## 📡 $ connect
 
 ```bash
-LinkedIn  : https://linkedin.com/in/YOURPROFILE
-Email     : your@email.com
+Email     : Cybernoob4u@gmail.com
 Portfolio : Coming Soon
 ```
 
